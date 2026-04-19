@@ -79,11 +79,6 @@ Engineering spans [TypeScript](https://www.typescriptlang.org), [Next.js](https:
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flexpilot&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2872fa&icon_color=2872fa" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexpilot&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2872fa" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flexpilot&theme=dark&hide_border=true&background=0D1117&stroke=2872fa&ring=2872fa&fire=2872fa&currStreakLabel=2872fa" alt="GitHub Streak" />
 </p>
 
