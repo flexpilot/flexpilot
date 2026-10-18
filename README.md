@@ -1,6 +1,6 @@
 <h1 align="center">Dimitar Vasilev</h1>
 
-<h3 align="center">Founder &amp; CEO at <a href="https://flexpilot.io">FlexPilot Inc.</a> · Building <a href="https://bosspaws.ai">BossPaws</a> · Lead AI Developer</h3>
+<h3 align="center">Founder &amp; CEO at <a href="https://bosspaws.ai">BossPaws</a> · Lead AI Developer</h3>
 
 <p align="center">
 Building a knowledge-augmented veterinary AI platform engineered exclusively for dogs and cats —<br />
@@ -99,6 +99,6 @@ Engineering spans [TypeScript](https://www.typescriptlang.org), [Next.js](https:
 ---
 
 <p align="center">
-  <sub>BossPaws is built and operated by <a href="https://flexpilot.io">FlexPilot Inc.</a>, Toronto, Canada.<br />
-  © 2026 FlexPilot Inc. All rights reserved.</sub>
+  Toronto, Canada.<br />
+  © 2026 BossPaws. All rights reserved.</sub>
 </p>
